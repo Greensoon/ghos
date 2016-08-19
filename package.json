@@ -1,0 +1,15 @@
+{
+  "name": "ghos",
+  "version": "0.0.1",
+  "description": "ghos means green hopes os, it is an operational system based on browser envirement using html,css,js, and just pure js without jslibs like jquery,zepto, etn.",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "keywords": [
+    "js",
+    "operation"
+  ],
+  "author": "Aaron",
+  "license": "ISC"
+}
