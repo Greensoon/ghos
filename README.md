@@ -2,6 +2,29 @@
 基于浏览器环境的系统
 
 
+###获取
+```
+git clone https://github.com/Greensoon/ghos.git
+```
+
+###依赖
+```
+npm install -g fis3
+```
+
+###启动
+```
+cd ghos
+
+fis3 server start
+
+fis3 release -wL
+```
+
+###访问
+http://127.0.0.1:8080/0.0.1
+
+
 
 ###功能
 
