@@ -9,13 +9,12 @@ git clone https://github.com/Greensoon/ghos.git
 
 ###依赖
 ```
+cd ghos
 npm install -g fis3
 ```
 
 ###启动
 ```
-cd ghos
-
 fis3 server start
 
 fis3 release -wL
