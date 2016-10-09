@@ -1,5 +1,5 @@
 # ghos
-基于浏览器环境的系统，it means Green Hopes Operation System.Green is Hope!People need Hopes,and the word needs Hopes.
+基于浏览器环境的系统，it means Green Hopes Operation System.Green is Hope!People need Hopes,and the world needs Hopes.
 
 
 ###获取 install
